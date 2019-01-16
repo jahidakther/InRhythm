@@ -8,7 +8,7 @@ import utilities.AllMethod;
 public class UnitTestStringVerify {
 	AllMethod am=new AllMethod();
 	
-  //Inject a string into the two method expected return value should be a integer and a string. 	
+  //Inject a string into the two method expected return value should be an integer and a string. 	
   @Test
   public void methodTesting() {
 	  String inputString="The cow jumped over the moon";
